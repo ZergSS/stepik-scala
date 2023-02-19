@@ -1,2 +1,2 @@
 # stepik-scala
-Learning scala - [https://stepik.org/course/89974/syllabus] 
+Learning scala - https://stepik.org/course/89974/syllabus
